@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Dream Girl's Notes"
